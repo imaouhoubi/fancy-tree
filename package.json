@@ -1,0 +1,8 @@
+{
+  "name": "fancy-tree",
+  "version": "1.0.0",
+  "description": "Tree View Component for react",
+  "repository": "https://github.com/imaouhoubi/fancy-tree.git",
+  "author": "Ibrahim MAOUHOUBI <imaouhoubi@gmail.com>",
+  "license": "MIT"
+}
